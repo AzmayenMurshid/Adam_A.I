@@ -1,0 +1,15 @@
+{
+  "OS":{
+    "windows":[
+      {"Turn on":"OS starting"},
+      {"2022\/05\/01 21:35:47":"shut down os"},
+      {"2022\/05\/01 21:46:29":"lock os"}
+    ]
+  },
+  "browser":{
+    "websites":[
+      {"github":"www.github.com"},
+      {"youtube":"www.youtube.com"}
+    ]
+  }
+}
